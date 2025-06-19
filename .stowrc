@@ -1,0 +1,5 @@
+--target=~/.config
+--ignore=STOW_README.md
+--ignore=.stowrc
+--ignore=DS_Store
+--ignore=atuin/*
