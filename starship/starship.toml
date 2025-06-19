@@ -1,0 +1,5 @@
+[time]
+disabled = false
+
+[battery]
+disabled = false
